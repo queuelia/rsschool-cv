@@ -7,7 +7,7 @@
 
 ## Skills
 
-<kbd>HTML<kbd> <kbd>CSS</kbd> <kbd>JavaScript (Basic)</kbd> <kbd>Git/GitHub</kbd> <kbd>SQL (Basic)</kbd>
+<kbd>HTML</kbd> <kbd>CSS</kbd> <kbd>JavaScript (Basic)</kbd> <kbd>Git/GitHub</kbd> <kbd>SQL (Basic)</kbd>
 
 ## Work Experience
 
