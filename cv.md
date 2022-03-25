@@ -28,6 +28,10 @@ Healthy Networks<br>
 International University "MITSO"<br>
 *09/2017 - 07/2021*
 
+## Personal Projects
+
+- [CV](https://github.com/queuelia/rsschool-cv.git)
+
 ## Languages
 
 - Russian - Native
