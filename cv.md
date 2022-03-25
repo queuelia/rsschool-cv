@@ -5,6 +5,10 @@
 | **+375 29 181-06-66**          | **[GitHub](https://github.com/queuelia)**                   |
 | **Minsk, Belarus**             | **Discord: Yuliya (@queuelia)**                             |
 
+## Skills
+
+<kbd>HTML<kbd> <kbd>CSS</kbd> <kbd>JavaScript (Basic)</kbd> <kbd>Git/GitHub</kbd> <kbd>SQL (Basic)</kbd>
+
 ## Work Experience
 
 **Personal Assistant to CEO**
