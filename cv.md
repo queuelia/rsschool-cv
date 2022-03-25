@@ -21,3 +21,10 @@ Healthy Networks<br>
 > - Completed a broad variety of administrative tasks that facilitate the CEO's ability to effectively lead the organization
 > - Designed and produced documents, reports, presentations, composed and prepared correspondence, made travel arrangements, completed expense reports
 
+## Education
+
+**Bachelor of Laws in International Law**
+
+International University "MITSO"<br>
+*09/2017 - 07/2021*
+
