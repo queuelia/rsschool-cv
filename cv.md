@@ -28,3 +28,8 @@ Healthy Networks<br>
 International University "MITSO"<br>
 *09/2017 - 07/2021*
 
+## Languages
+
+- Russian - Native
+- English - B1, Limited working proficiency
+
