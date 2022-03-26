@@ -32,6 +32,22 @@ International University "MITSO"<br>
 
 - [CV](https://github.com/queuelia/rsschool-cv.git)
 
+## Code Example
+
+```javascript
+function twiceAsOld(dadYearsOld, sonYearsOld) {
+  let result;
+  let doubleSon = sonYearsOld * 2;
+  if (doubleSon > dadYearsOld) {
+    result = doubleSon - dadYearsOld;
+    return result;
+  } else {
+    result = dadYearsOld - doubleSon;
+    return result;
+  }
+}
+```
+
 ## Languages
 
 - Russian - Native
