@@ -1,5 +1,8 @@
 # Yuliya Polyukhovich
 
+Self-motivated, highly passionate and hardworking employee with the ability to learn.<br>
+Seeking an entry-level position to utilize skills and knowledge to work for the growth of the organisation.<br>
+
 | <julia.polyukhovich@gmail.com> | [LinkedIn](https://www.linkedin.com/in/yuliyapolyukhovich/) |
 |:----                           |:----                                                        |
 | **+375 29 181-06-66**          | **[GitHub](https://github.com/queuelia)**                   |
